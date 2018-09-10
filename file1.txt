@@ -3,3 +3,5 @@ this is my first commit. Yay!
 add more lines...testing...
 
 This is an edit by Emma. Hello!
+
+Coffee break was fun!
